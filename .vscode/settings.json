@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "server_common.h": "c",
+        "led_control.h": "c"
+    }
+}
